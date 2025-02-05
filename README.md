@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="200" src="![Image](https://github.com/user-attachments/assets/c7dbd888-eb65-475e-ae56-bd75d03a1a94)"  />
-</div>
+
+ ![Image](https://github.com/user-attachments/assets/c7dbd888-eb65-475e-ae56-bd75d03a1a94)
 
 ###
 
