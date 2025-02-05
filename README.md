@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="center">I'm a Front-End Developer with a strong foundation in [Css, Tailwind, Javascript, ES6, Reactjs ]. I'm passionate about front-end development and dedicated to continuous learning.  I'm actively seeking opportunities to gain experience and contribute to real-world projects.</h2>
+<h2 align="center">I'm a Front-End Developer with a strong foundation in CSS, Tailwind CSS, JavaScript (ES6), and React.js. Passionate about building user-friendly and visually appealing web applications, I'm dedicated to continuous learning and growth. I'm actively seeking opportunities to gain hands-on experience and contribute to real-world projects.</h2>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="center">Skilled At:</h4>
+<h4 align="left">Skilled At:</h4>
 
 ###
 
@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <a href="itismehey975@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rokib-shuvo-452089280/" target="_blank">
@@ -61,5 +61,7 @@
   <img src="https://streak-stats.demolab.com?user=RokibulAlom-hub&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RokibulAlom-hub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ###
