@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">I'm a Front-End Developer with a strong foundation in CSS, Tailwind CSS, JavaScript (ES6), and React.js. Passionate about building user-friendly and visually appealing web applications, I'm dedicated to continuous learning and growth. I'm actively seeking opportunities to gain hands-on experience and contribute to real-world projects.</h2>
+<h2 align="center">I'm a Web Developer with a strong foundation in CSS, Tailwind CSS, JavaScript (ES6), and React.js. Passionate about building user-friendly and visually appealing web applications, I'm dedicated to continuous learning and growth. I'm actively seeking opportunities to gain hands-on experience and contribute to real-world projects.</h2>
 
 ###
 
